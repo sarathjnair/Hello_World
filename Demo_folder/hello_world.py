@@ -1,0 +1,1 @@
+print("\nHello World! This is my first try in Git.\n")
