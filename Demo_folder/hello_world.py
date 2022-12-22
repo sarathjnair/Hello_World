@@ -9,3 +9,6 @@ print("Some fourth change")
 print("Fifth change made from remote repository")
 
 print("Six change to test fast-tracked commit!")
+
+def add_two_numbers(a,b):
+    return a+b
