@@ -1,3 +1,5 @@
-This change is made in local repository
+This change is made in local repository modified in remote repository
 
 Local Change
+Remote Change
+Remote Change 2
