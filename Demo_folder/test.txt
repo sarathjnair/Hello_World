@@ -1,6 +1,6 @@
-This change is made in local repository
+This change is made in local repository modified in remote repository
 
 Local Change
-Local Chane 2
+Remote Change
+Remote Change 2
 
-Local Change 3
