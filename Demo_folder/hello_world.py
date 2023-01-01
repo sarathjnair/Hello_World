@@ -11,5 +11,4 @@ print("Fifth change made from remote repository")
 print("Six change to test fast-tracked commit!")
 
 def add_two_numbers(a,b):
-    print("addition completed")
     return a+b
