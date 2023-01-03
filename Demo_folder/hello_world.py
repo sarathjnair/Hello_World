@@ -14,4 +14,7 @@ def add_two_numbers(a,b):
     c=a+b
     print("added")
     return c
-    
+def mul_two_numbers(a,b):
+    d=a*b
+    print("multiplied")
+    return d
