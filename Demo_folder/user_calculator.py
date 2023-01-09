@@ -1,8 +1,7 @@
-a=input("Enter number 1 : ")
-b=input("Enter number 2 : ")
-a=int(a)
-b=int(b)
-if(type(a).__name__=="int" and type(b).__name__ == "int"):
-    print(f"The sum of {a} and {b} is {int(a)+int(b)}")
+try:
+    a=int(input("Enter number 1 : "))
+    b=int(input("Enter number 2 : "))
+except Exception:
+    print("Please enter a valid input. Entered input is not an integer\n")
 else:
-    print("Entered inputs are not integers")
+    print(f"The sum of {a} and {b} is {a+b}")
